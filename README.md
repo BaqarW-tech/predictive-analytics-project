@@ -76,7 +76,7 @@ This app trains three machine learning classifiers (Random Forest, Gradient Boos
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/saudi-workforce-predictive.git
+git clone https://github.com/BaqarW-tech/saudi-workforce-predictive.git
 cd saudi-workforce-predictive
 cp ../saudi-workforce-descriptive/saudi_workforce_data.csv .
 pip install -r requirements.txt
@@ -85,7 +85,7 @@ streamlit run app.py
 
 ### Google Colab
 ```python
-!git clone https://github.com/YOUR_USERNAME/saudi-workforce-predictive
+!git clone https://github.com/BaqarW-tech/saudi-workforce-predictive
 %cd saudi-workforce-predictive
 !cp ../saudi-workforce-descriptive/saudi_workforce_data.csv .
 !pip install -r requirements.txt -q
