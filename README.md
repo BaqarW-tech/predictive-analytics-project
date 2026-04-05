@@ -1,7 +1,7 @@
 # 🤖 Nitaqat Breach Risk Predictor
 ### Predictive Analytics · Vision 2030 Portfolio Series · App 3 of 4
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictive-analytics-project-er6efuruhqkdxklr4rq46u.streamlit.app)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-orange)
 ![Analytics](https://img.shields.io/badge/Analytics-Predictive%20ML-red)
